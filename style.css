@@ -1,0 +1,14 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-size: larger;
+    text-align: center;
+    font-style: italic;
+}
+hi{
+    text-decoration: underline;
+    color: blue;
+}
+h5{
+    color: darkred;
+    text-decoration: underline;
+}
